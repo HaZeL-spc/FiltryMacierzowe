@@ -1,0 +1,6 @@
+C:\Users\kacpe\OneDrive\Pulpit\Uczelnia\semestr5\ProgramowanieGraficzne\FiltrySplotowe\FiltrySplotowe\obj\Debug\net5.0-windows7.0\FiltrySplotowe.Form1.resources
+C:\Users\kacpe\OneDrive\Pulpit\Uczelnia\semestr5\ProgramowanieGraficzne\FiltrySplotowe\FiltrySplotowe\obj\Debug\net5.0-windows7.0\FiltrySplotowe.csproj.GenerateResource.cache
+C:\Users\kacpe\OneDrive\Pulpit\Uczelnia\semestr5\ProgramowanieGraficzne\FiltrySplotowe\FiltrySplotowe\obj\Debug\net5.0-windows7.0\FiltrySplotowe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kacpe\OneDrive\Pulpit\Uczelnia\semestr5\ProgramowanieGraficzne\FiltrySplotowe\FiltrySplotowe\obj\Debug\net5.0-windows7.0\FiltrySplotowe.AssemblyInfoInputs.cache
+C:\Users\kacpe\OneDrive\Pulpit\Uczelnia\semestr5\ProgramowanieGraficzne\FiltrySplotowe\FiltrySplotowe\obj\Debug\net5.0-windows7.0\FiltrySplotowe.AssemblyInfo.cs
+C:\Users\kacpe\OneDrive\Pulpit\Uczelnia\semestr5\ProgramowanieGraficzne\FiltrySplotowe\FiltrySplotowe\obj\Debug\net5.0-windows7.0\FiltrySplotowe.csproj.CoreCompileInputs.cache

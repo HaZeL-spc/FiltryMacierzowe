@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ugNEUFeCKPRhCPLTUl+Mou/KPWgcUa7xZtCItKJg5UBqzA1wOOHu9dwDhUf4seooIcGC3j3b160gOj6Kt3ke2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kacpe\\OneDrive\\Pulpit\\Uczelnia\\semestr5\\ProgramowanieGraficzne\\FiltrySplotowe\\FiltrySplotowe\\FiltrySplotowe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kacpe\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.4\\microsoft.netcore.platforms.3.1.4.nupkg.sha512",
+    "C:\\Users\\kacpe\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\kacpe\\.nuget\\packages\\scottplot\\4.1.69\\scottplot.4.1.69.nupkg.sha512",
+    "C:\\Users\\kacpe\\.nuget\\packages\\scottplot.winforms\\4.1.69\\scottplot.winforms.4.1.69.nupkg.sha512",
+    "C:\\Users\\kacpe\\.nuget\\packages\\system.drawing.common\\4.7.2\\system.drawing.common.4.7.2.nupkg.sha512",
+    "C:\\Users\\kacpe\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
